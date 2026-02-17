@@ -1,0 +1,8 @@
+
+{
+  "name": "Luxury Hardware Showcase",
+  "description": "A professional platform for managing and displaying home hardware, handles, and cabinets with a dual-view system for owners and visitors.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
